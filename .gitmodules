@@ -11,6 +11,7 @@
 	path = glibc
 	url = https://github.com/ajklg/glibc-upd.git
 	shallow = true
+	branch = master
 [submodule "dejagnu"]
 	path = dejagnu
 	url = https://git.savannah.gnu.org/git/dejagnu.git
