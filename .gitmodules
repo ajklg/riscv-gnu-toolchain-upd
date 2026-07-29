@@ -1,7 +1,6 @@
 [submodule "binutils"]
 	path = binutils
-	url = https://sourceware.org/git/binutils-gdb.git
-	branch = binutils-2_46-branch
+	url = https://github.com/ajklg/binutils-upd
 	shallow = true
 [submodule "gcc"]
 	path = gcc
@@ -10,7 +9,7 @@
 	shallow = true
 [submodule "glibc"]
 	path = glibc
-	url = https://sourceware.org/git/glibc.git
+	url = https://github.com/ajklg/glibc-upd.git
 	shallow = true
 [submodule "dejagnu"]
 	path = dejagnu
