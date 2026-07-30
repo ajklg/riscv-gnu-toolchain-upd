@@ -19,8 +19,7 @@
 	shallow = false
 [submodule "newlib"]
 	path = newlib
-	url = https://sourceware.org/git/newlib-cygwin.git
-	branch = master
+	url = https://github.com/ajklg/newlib-upd.git
 	shallow = true
 [submodule "gdb"]
 	path = gdb
